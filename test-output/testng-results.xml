@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Search Weather In Your City By Multi Thread - Suite" duration-ms="60061" started-at="2021-08-10T10:29:47Z" finished-at="2021-08-10T10:30:47Z">
+    <groups>
+    </groups>
+    <test name="Search Weather In Your City - Test on Chrome" duration-ms="55615" started-at="2021-08-10T10:29:47Z" finished-at="2021-08-10T10:30:43Z">
+      <class name="testscripts.ToVerifySearchWeatherInYourCity">
+        <test-method status="PASS" signature="initializeBeforeTest(org.testng.ITestContext, java.lang.String)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@6e6c3152]" name="initializeBeforeTest" is-config="true" duration-ms="615" started-at="2021-08-10T10:29:47Z" finished-at="2021-08-10T10:29:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6d763516]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBeforeTest -->
+        <test-method status="PASS" signature="initializeBeforeClass(org.testng.ITestContext, java.lang.String)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@6e6c3152]" name="initializeBeforeClass" is-config="true" duration-ms="7632" started-at="2021-08-10T10:29:48Z" finished-at="2021-08-10T10:29:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6d763516]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBeforeClass -->
+        <test-method status="PASS" signature="initializeBeforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@6e6c3152]" name="initializeBeforeMethod" is-config="true" duration-ms="696" started-at="2021-08-10T10:29:55Z" finished-at="2021-08-10T10:29:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testscripts.ToVerifySearchWeatherInYourCity.SearchWeather()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBeforeMethod -->
+        <test-method status="PASS" signature="SearchWeather()[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@6e6c3152]" name="SearchWeather" duration-ms="42000" started-at="2021-08-10T10:29:56Z" finished-at="2021-08-10T10:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWeather -->
+        <test-method status="PASS" signature="onTestFailure(org.testng.ITestResult)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@6e6c3152]" name="onTestFailure" is-config="true" duration-ms="1" started-at="2021-08-10T10:30:38Z" finished-at="2021-08-10T10:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchWeather status=SUCCESS method=ToVerifySearchWeatherInYourCity.SearchWeather()[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@6e6c3152] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onTestFailure -->
+        <test-method status="PASS" signature="onAfterClass()[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@6e6c3152]" name="onAfterClass" is-config="true" duration-ms="4634" started-at="2021-08-10T10:30:38Z" finished-at="2021-08-10T10:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onAfterClass -->
+      </class> <!-- testscripts.ToVerifySearchWeatherInYourCity -->
+    </test> <!-- Search Weather In Your City - Test on Chrome -->
+    <test name="Search Weather In Your City - Test on FireFox" duration-ms="60061" started-at="2021-08-10T10:29:47Z" finished-at="2021-08-10T10:30:47Z">
+      <class name="testscripts.ToVerifySearchWeatherInYourCity">
+        <test-method status="PASS" signature="initializeBeforeTest(org.testng.ITestContext, java.lang.String)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715]" name="initializeBeforeTest" is-config="true" duration-ms="615" started-at="2021-08-10T10:29:47Z" finished-at="2021-08-10T10:29:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@52bf72b5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBeforeTest -->
+        <test-method status="PASS" signature="initializeBeforeClass(org.testng.ITestContext, java.lang.String)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715]" name="initializeBeforeClass" is-config="true" duration-ms="20292" started-at="2021-08-10T10:29:48Z" finished-at="2021-08-10T10:30:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@52bf72b5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBeforeClass -->
+        <test-method status="PASS" signature="initializeBeforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715]" name="initializeBeforeMethod" is-config="true" duration-ms="1" started-at="2021-08-10T10:30:08Z" finished-at="2021-08-10T10:30:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testscripts.ToVerifySearchWeatherInYourCity.SearchWeather()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBeforeMethod -->
+        <test-method status="PASS" signature="SearchWeather()[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715]" name="SearchWeather" duration-ms="33437" started-at="2021-08-10T10:30:08Z" finished-at="2021-08-10T10:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWeather -->
+        <test-method status="PASS" signature="onTestFailure(org.testng.ITestResult)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715]" name="onTestFailure" is-config="true" duration-ms="1" started-at="2021-08-10T10:30:41Z" finished-at="2021-08-10T10:30:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchWeather status=SUCCESS method=ToVerifySearchWeatherInYourCity.SearchWeather()[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onTestFailure -->
+        <test-method status="PASS" signature="onAfterClass()[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715]" name="onAfterClass" is-config="true" duration-ms="5694" started-at="2021-08-10T10:30:42Z" finished-at="2021-08-10T10:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onAfterClass -->
+        <test-method status="PASS" signature="onFinish(org.testng.ITestContext)[pri:0, instance:testscripts.ToVerifySearchWeatherInYourCity@3fd7a715]" name="onFinish" is-config="true" duration-ms="1459" started-at="2021-08-10T10:30:47Z" finished-at="2021-08-10T10:30:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@52bf72b5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFinish -->
+      </class> <!-- testscripts.ToVerifySearchWeatherInYourCity -->
+    </test> <!-- Search Weather In Your City - Test on FireFox -->
+  </suite> <!-- Search Weather In Your City By Multi Thread - Suite -->
+</testng-results>

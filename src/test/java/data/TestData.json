@@ -1,0 +1,12 @@
+{
+	"appurl":"https://openweathermap.org/",
+	"yourcity":"Ha Noi",
+	"Ha Noi":{
+		"cityname": "Ha Noi",
+		"displaycityname": "Hanoi"	
+		},
+	"Ho Chi Minh":{
+		"cityname": "Ho Chi Minh",
+		"displaycityname": "Thanh pho Ho Chi Minh"	
+		},
+}
